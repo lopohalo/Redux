@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "id": 2,
+      "nombre": "trabajo",
+      "precio": "4"
+    },
+    {
+      "nombre": "tomate",
+      "precio": 2000,
+      "id": 3
+    },
+    {
+      "nombre": "guanabana",
+      "precio": 5,
+      "id": 5
+    },
+    {
+      "nombre": "aaa",
+      "precio": 1212210,
+      "id": 6
+    }
+  ]
+}
